@@ -43,12 +43,12 @@ I can currently serve you in the following:
 * React Native.
 * Flutter and Dart.
 
-## Languages: 
+## Languages
 * English (B2)
 * Spanish (Native speaker)
 
 ## So, how can I contact you?
-If you think I can help you in your projects or to materialize your idea, do not hesitate to send me an email to the following address: acamilo707@protonmail.com
+### If you think I can help you in your projects or to materialize your idea, do not hesitate to send me an email to the following address: acamilo707@protonmail.com
 <!--
 **ACSG-64/ACSG-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
