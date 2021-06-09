@@ -7,7 +7,8 @@ I am passionate about software development and research in the field of computer
 I strive to deliver quality software that meets customer expectations, and not only that, but I make sure that the code and architecture is of the highest quality, resilient, secure and scalable following industry best practices.
 
 I am a constant learner and like to explore any technology that has the potential to meet the current and future landscape.
-I am willing to help both for-profit and humanitarian non-profit organizations alike.
+
+**_I am willing to help both for-profit and humanitarian non-profit organizations alike._**
 
 ### Formation
 * [Android Kotlin Developer](https://graduation.udacity.com/confirm/NNVQSKAF) - Udacity in partnership with Google
@@ -18,11 +19,11 @@ I am willing to help both for-profit and humanitarian non-profit organizations a
 
 ## My specializations
 I can currently serve you in the following:
-* Native Andoid application development.
-* Web site development (static / dynamic).
-* Web application development _(monolith or microservices arquitecture depending on the complexity and resources)_.
-* Custom online stores with the possibility of enhancing them with AI.
-* Data science projects (not with big data yet). 
+* Native Andoid applications development.
+* Web sites development (static / dynamic).
+* Web applications development _(monolith or microservices arquitecture depending on the complexity and resources)_.
+* Custom online stores development with the possibility of enhancing them with AI.
+* Data science projects (without dealing with big data). 
 
 ## Technologies
 | **Programming languages** | Mobile | **Front-end web** | **Back-end** | **Databases** | **CI/CD** |
