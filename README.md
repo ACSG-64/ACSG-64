@@ -8,7 +8,7 @@ I strive to deliver quality software that meets customer expectations, and not o
 
 I am a constant learner and like to explore any technology that has the potential to meet the current and future landscape.
 
-**_I am willing to help both for-profit and humanitarian non-profit organizations alike._**
+### _I am open and willing to help both for-profit and humanitarian non-profit organizations alike._
 
 ### Formation
 * [Android Kotlin Developer](https://graduation.udacity.com/confirm/NNVQSKAF) - Udacity in partnership with Google
@@ -36,7 +36,7 @@ I can currently serve you in the following:
 |C++ (when strictly necessary)| | | | | |
 
 ### I'm currently learning
-* Cloud Native Application Architecture (thanks to a scholarship provided by SUSE)
+* Cloud Native Application Architecture _(thanks to a scholarship provided by SUSE)._
 * Blockchain for enterprise level solutions.
 * Distributed and real-time data/big data processing.
 * Deep learning.
