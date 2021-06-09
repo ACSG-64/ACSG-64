@@ -37,6 +37,7 @@ I can currently serve you in the following:
 ### I'm currently learning
 * Cloud Native Application Architecture (thanks to a scholarship provided by SUSE)
 * Blockchain for enterprise level solutions.
+* Distributed and real-time data/big data processing.
 * Deep learning.
 * React Native.
 * Flutter and Dart.
