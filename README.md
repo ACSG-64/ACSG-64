@@ -29,7 +29,7 @@ I can currently serve you in the following:
 | **Programming languages** | Mobile | **Front-end web** | **Back-end** | **Databases** | **CI/CD** |
 |--|--|--|--|--|--|
 |Python 3|Android (Kotlin)|Framework: Vue.js|Node.js / express|SQLite 3|Docker|
-|JavaScript / ES6 / JSX|React Native|CSS / SASS|Golang|PostgreSQL|Kubernetes|
+|JavaScript / ES6 / JSX|React Native (iOS & Android)|CSS / SASS|Golang|PostgreSQL|Kubernetes|
 |Typescript / TSX| |HTML 5| |MongoDB|Git / GitHub|
 |Golang| | | |Redis| |
 |Kotlin| | | | | |
