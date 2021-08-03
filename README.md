@@ -19,7 +19,7 @@ I am a constant learner and like to explore any technology that has the potentia
 
 ## My specializations
 I can currently serve you in the following:
-* Native Andoid applications development.
+* Mobile applications development (Android native / iOS & Android multiplatform).
 * Web sites development (static / dynamic).
 * Web applications development _(monolith or microservices arquitecture depending on the complexity and resources)_.
 * Custom online stores development with the possibility of enhancing them with AI.
