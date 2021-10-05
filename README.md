@@ -38,11 +38,9 @@ I can currently serve you in the following:
 
 ### I'm currently learning
 * International standars for quality and certification of software.
-* Cloud Native Application Architecture _(thanks to a scholarship provided by SUSE)._
 * Blockchain for enterprise level solutions.
 * Distributed and real-time data/big data processing.
 * Deep learning.
-* React Native.
 
 ## Languages
 * English (B2)
