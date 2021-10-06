@@ -33,7 +33,6 @@ I can currently serve you in the following:
 |Typescript / TSX| |HTML 5| |MongoDB|Git / GitHub|
 |Golang| | | |Redis| |
 |Kotlin| | | | | |
-|C#| | | | | | |
 |C++ (when strictly necessary)| | | | | |
 
 ### I'm currently learning
