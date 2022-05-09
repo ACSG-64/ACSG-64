@@ -21,17 +21,18 @@ I am a constant learner and like to explore any technology that has the potentia
 I can currently serve you in the following:
 * Mobile applications development.
 * Web sites development (static / dynamic).
-* Web applications development _(monolith or microservices arquitecture depending on the complexity and resources)_.
+* Web applications development.
+* Multiplatform desktop applications.
 
 ## Technologies
-| **Programming languages** | Mobile | **Front-end web** | **Back-end** | **Databases** | **CI/CD** |
-|--|--|--|--|--|--|
-|Python 3|Android (Kotlin)|Framework: Vue.js|Node.js / express|SQLite 3|Docker|
-|JavaScript / ES10 / JSX|React Native (iOS & Android)|CSS / SASS|Golang|PostgreSQL|Kubernetes|
-|Typescript / TSX| |HTML 5| |MongoDB|Git / GitHub|
-|Golang| | | |Redis| |
-|Kotlin| | | | | |
-|C++ (when strictly necessary)| | | | | |
+| Languages  | Front-end web      | Back-end          | Mobile                       | Desktop      | Databases  |
+|------------|--------------------|-------------------|------------------------------|--------------|------------|
+| JavaScript | Vue.js             | Node.js + Express | Android native (Kotlin)      | JavaFX       | PostgreSQL |
+| Python 3   | JavaScript (ES10)  | Go                | React Native (iOS & Android) | Swing (Java) | MySQL      |
+| Kotlin     | CSS3               |                   |                              |              | MongoDB    |
+| Java       | HTML5              |                   |                              |              |            |
+| Go         |                    |                   |                              |              |            |
+|            |                    |                   |                              |              |            |
 
 ### I'm currently learning
 * International standars for quality and certification of software.
