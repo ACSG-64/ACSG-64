@@ -28,7 +28,7 @@ I can currently serve you in the following:
 | Languages  | Front-end web      | Back-end          | Mobile                       | Desktop      | Databases  |
 |------------|--------------------|-------------------|------------------------------|--------------|------------|
 | JavaScript | Vue.js             | Node.js + Express | Android native (Kotlin)      | JavaFX       | PostgreSQL |
-| Python 3   | JavaScript (ES10)  | Go                | React Native (iOS & Android) | Swing (Java) | MySQL      |
+| Python 3   | JavaScript (ES10)  | Go                | React Native (iOS & Android) | Compose UI   | MySQL      |
 | Kotlin     | CSS3               |                   |                              |              | MongoDB    |
 | Java       | HTML5              |                   |                              |              |            |
 | Go         |                    |                   |                              |              |            |
