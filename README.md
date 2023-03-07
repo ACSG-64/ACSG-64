@@ -8,21 +8,10 @@ I strive to deliver quality software that meets customer expectations, and not o
 
 I am a constant learner and like to explore any technology that has the potential to meet the current and future landscape.
 
-### _I am open and willing to help both for-profit and humanitarian non-profit organizations alike._
-
-### Formation
-* [Android Kotlin Developer](https://graduation.udacity.com/confirm/NNVQSKAF) - Udacity in partnership with Google
-* Web development - CodeDoor
-* [Data Science specialization](https://www.credly.com/badges/66364595-086c-4582-bd2a-90c1f8a99b4d/public_url) - IBM
-* Introduction in Quantum Computing - The Coding School in partnership with IBM Quantum
-* Books, online courses and online resources...
-
 ## My specializations
-I can currently serve you in the following:
 * Mobile applications development.
-* Web sites development (static / dynamic).
-* Web applications development.
-* Multiplatform desktop applications.
+* Web development.
+* Dsktop applications.
 
 ## Technologies
 | Languages  | Front-end web      | Back-end          | Mobile                       | Desktop      | Databases  |
@@ -44,8 +33,7 @@ I can currently serve you in the following:
 * English (B2)
 * Spanish (Native speaker)
 
-## So, how can I contact you?
-### If you think I can help you in your projects or to materialize your idea, do not hesitate to send me an email to the following address: acamilo707@protonmail.com
+## Contact me at acamilo707@protonmail.com
 <!--
 **ACSG-64/ACSG-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
